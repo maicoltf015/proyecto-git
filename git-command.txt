@@ -13,3 +13,5 @@ Se usa :wq <!-- Para indicar que se va a guardar el commit  -->
 • git log <!-- Nos da un log de lo que estamos subiendo  -->
 • git checkout -- <FileName> <!-- Regresar nuestro  archivo de una version anterior  -->
 • git diff -- <FileName><!-- Ver las  diferencias que hay Entre un archivo -->
+
+El .gitignore <!-- Omitimos carpetas o archivos para que no sean subitos -->
