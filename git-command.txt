@@ -1,3 +1,14 @@
 • git init <!-- //Para inicializar un nuevo proyecto -->
 • git add <!-- Para añadir un archivo al working directory al staging area...... Antes de hacer el commit-->
+• git add . <!-- Para añadir Todos los archivos...... Antes de hacer el commit-->
 • git status <!-- para inicializar y ver el estatus de los archivos -->
+• git config --global user.email "maicoltf015@gmail.com" <!--  Configurar el email -->
+• git config --global user.name "maicoltf015" <!--  Configurar el nombre de usuario -->
+• git commit <!-- Para hacer nuestro commit  -->
+
+Se usa :wq <!-- Para indicar que se va a guardar el commit  -->
+<!--   -->
+
+• git log <!-- Nos da un log de lo que estamos subiendo  -->
+• git checkout <!-- Nos da un log de lo que estamos subiendo  -->
+• git diff <!-- Nos da un log de lo que estamos subiendo  -->
