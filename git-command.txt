@@ -1,0 +1,3 @@
+• git init <!-- //Para inicializar un nuevo proyecto -->
+• git add <!-- Para añadir un archivo al working directory al staging area...... Antes de hacer el commit-->
+• git status <!-- para inicializar y ver el estatus de los archivos -->
