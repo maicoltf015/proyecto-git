@@ -5,10 +5,11 @@
 • git config --global user.email "maicoltf015@gmail.com" <!--  Configurar el email -->
 • git config --global user.name "maicoltf015" <!--  Configurar el nombre de usuario -->
 • git commit <!-- Para hacer nuestro commit  -->
+• git commit -m "Mensaje del commit" <!-- Para hacer nuestro commit con un mensaje  -->
 
 Se usa :wq <!-- Para indicar que se va a guardar el commit  -->
 <!--   -->
 
 • git log <!-- Nos da un log de lo que estamos subiendo  -->
-• git checkout <!-- Nos da un log de lo que estamos subiendo  -->
-• git diff <!-- Nos da un log de lo que estamos subiendo  -->
+• git checkout -- <FileName> <!-- Regresar nuestro  archivo de una version anterior  -->
+• git diff -- <FileName><!-- Ver las  diferencias que hay Entre un archivo -->
