@@ -15,3 +15,9 @@ Se usa :wq <!-- Para indicar que se va a guardar el commit  -->
 • git diff -- <FileName><!-- Ver las  diferencias que hay Entre un archivo -->
 
 El .gitignore <!-- Omitimos carpetas o archivos para que no sean subitos -->
+
+
+git remote add origin <!-- Sincronizamos git con github agregando nuestra url: En este caso https://github.com/maicoltf015/proyecto-git.git--> 
+git push -u origin <BranchName> <!-- Realizamos el push a una de las ramas del proyecto -->
+
+URL DEL TUTORIAL: https://github.com/maicoltf015/proyecto-git.git
