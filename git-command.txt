@@ -1,4 +1,4 @@
-• git init <!-- //Para inicializar un nuevo proyecto -->
+﻿• git init <!-- //Para inicializar un nuevo proyecto -->
 • git add <!-- Para añadir un archivo al working directory al staging area...... Antes de hacer el commit-->
 • git add . <!-- Para añadir Todos los archivos...... Antes de hacer el commit-->
 • git status <!-- para inicializar y ver el estatus de los archivos -->
@@ -21,3 +21,5 @@ git remote add origin <!-- Sincronizamos git con github agregando nuestra url: E
 git push -u origin <BranchName> <!-- Realizamos el push a una de las ramas del proyecto -->
 
 URL DEL TUTORIAL: https://github.com/maicoltf015/proyecto-git.git
+
+git clone https://github.com/maicoltf015/proyecto-git.git <!-- Para clonar el proyecto de github -->
